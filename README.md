@@ -9,11 +9,11 @@ and risk classification.
 ## Dashboard Preview
 ## Summary Dashboard
 
-![Summary Dashboard](screenshot/summary_dashboard.png)
+![Summary Dashboard](summary_dashboard.png)
 
 ## Loan Status Analysis Dashboard
 
-![Loan Status Analysis Dashboard](screenshot/loan_status_analysis_dashboard.png)
+![Loan Status Analysis Dashboard](loan_status_analysis_dashboard.png)
 
 ## Objectives
 - Analyze loan applications, funded and received amounts
