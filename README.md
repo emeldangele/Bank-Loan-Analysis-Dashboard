@@ -14,7 +14,7 @@ and risk classification.
 
 ### Loan Status Analysis Dashboard
 
-![Loan Status Analysis Dashboard](loan_status_analysis.png)
+![Loan Status Analysis Dashboard](loan_status_analysis_dashboard.png)
 
 ## Objectives
 - Analyze loan applications, funded and received amounts
