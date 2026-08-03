@@ -41,14 +41,15 @@ and risk classification.
 - Average DTI: 13.3%
 
 ## Dashboard Features
-- Monthly Loan Trend (Line Chart)
-- Loan by Employment Length (Bar Chart)
-- Loan by Term (Donut Chart)
-- Loan by Grade (Column Chart)
-- Loan by Purpose (Bar Chart)
-- Loan by Home Ownership (Bar Chart)
+- Monthly Loan Trend 
+- Loan by Employment Length 
+- Loan by Term 
+- Loan by Grade 
+- Loan by Purpose 
+- Loan by Home Ownership 
 - Good vs Bad Loan Analysis
-- Interactive Slicers (Purpose, Grade)
+- Loan Status
+- Interactive Slicers 
 
 ## Business Questions Answered
 1. What is the total number of loan applications?
