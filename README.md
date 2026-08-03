@@ -7,7 +7,7 @@ about loan performance, repayment trends
 and risk classification.
 
 ## Dashboard Preview
-![Dashboard](screenshots/bank_loan_dashboard.png)
+![Dashboard](bank_loan_dashboard.png)
 
 ## Objectives
 - Analyze loan applications, funded and received amounts
