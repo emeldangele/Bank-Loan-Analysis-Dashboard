@@ -9,7 +9,7 @@ and risk classification.
 ## Dashboard Preview
 ## Summary Dashboard
 
-![Summary Dashboard](summary_dashboard.png)
+![Summary Dashboard](bank_loan__dashboard.png)
 
 ## Loan Status Analysis Dashboard
 
