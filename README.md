@@ -74,6 +74,6 @@ and risk classification.
 - Review high DTI borrowers carefully
 
 ## Related Projects
-- [Bank Loan Analysis SQL Project](link to SQL repo)
+- [Bank Loan Analysis SQL Project](https://github.com/emeldangele/Bank-Loan-Analysis-SQL-Project))
 
 
